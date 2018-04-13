@@ -101,7 +101,7 @@ Now update your npm dev script to:
 
 Now try to run your app again with \`npm run dev\`.
 
-What's the you experience you will get?
+What's the experience you will get?
       `
     },
 
